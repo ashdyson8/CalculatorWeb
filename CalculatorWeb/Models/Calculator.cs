@@ -5,7 +5,8 @@ using System.Web;
 
 namespace CalculatorWeb.Models
 {
-    public class Calculator
+    public class calculator
     {
+       
     }
 }
