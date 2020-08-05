@@ -26,5 +26,13 @@ namespace CalculatorWeb.Controllers
 
             return View();
         }
+
+        public ActionResult Calculator()
+
+        {
+            ViewBag.Message = "My calculator page";
+
+            return View();
+        }
     }
 }
